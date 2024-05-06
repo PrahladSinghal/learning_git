@@ -1,2 +1,2 @@
 # learning_git
-This is my repo to learn git
+This is my repo to learn git.
